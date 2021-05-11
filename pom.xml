@@ -6,7 +6,7 @@
 
 
     <groupId>demo</groupId>
-    <artifactId>whitelist-demo</artifactId>
+    <artifactId>middleware-demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <modules>
